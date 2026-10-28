@@ -1,0 +1,8 @@
+{
+  "user": { "name": "Ram Thapa", "vehicle": "KMC-04" },
+  "defaultVehicle": "KMC-04",
+  "ward": 17,
+  "dateLabel": "Monday, October 5",
+  "demoLogin": { "identifier": "9841000000", "password": "demo1234" },
+  "maintenanceNotice": "maintenance: due in 12 days"
+}

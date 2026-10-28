@@ -1,0 +1,34 @@
+{
+  "light": {
+    "bg": "#eef0ed",
+    "surface": "#ffffff",
+    "ink": "#1a2321",
+    "muted": "#5f6c69",
+    "line": "#e0e5e2",
+    "accent": "#2a6f4f",
+    "green": "#2e7d4f",
+    "amber": "#b7791f",
+    "red": "#c0392b",
+    "blue": "#2b6a9a",
+    "tint": "#e8f2ec",
+    "alertBg": "#f8f2e9",
+    "overlay": "rgba(0,0,0,0.4)",
+    "white": "#ffffff"
+  },
+  "dark": {
+    "bg": "#0e1312",
+    "surface": "#1a2221",
+    "ink": "#e8eeec",
+    "muted": "#9aa7a4",
+    "line": "#2c3735",
+    "accent": "#58b07a",
+    "green": "#58b07a",
+    "amber": "#d9a441",
+    "red": "#e2685a",
+    "blue": "#6aaee0",
+    "tint": "#22332b",
+    "alertBg": "#2d2f24",
+    "overlay": "rgba(0,0,0,0.4)",
+    "white": "#ffffff"
+  }
+}

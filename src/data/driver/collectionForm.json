@@ -1,0 +1,6 @@
+{
+  "defaultWeight": "850",
+  "trips": [1, 2, 3],
+  "finishStatuses": ["Completed", "Partial", "Unable to Complete"],
+  "reasons": ["Vehicle full", "Vehicle problem", "Road blocked", "Collection point unavailable", "Other"]
+}

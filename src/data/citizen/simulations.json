@@ -1,0 +1,57 @@
+[
+  {
+    "id": "delay",
+    "label": "Driver reports delay",
+    "status": "Delayed",
+    "update": { "category": "Collection", "text": "Collection delayed in your area by 30 minutes." },
+    "push": "⚠️ Today's collection has been delayed."
+  },
+  {
+    "id": "timeChange",
+    "label": "Ward changes time to 9:00 AM",
+    "timeSlot": "09:00 – 10:00 AM",
+    "update": { "category": "Schedule", "text": "Collection time changed to 9:00 AM today (Ward 17)." },
+    "push": "⚠️ Collection time changed to 9:00 AM today."
+  },
+  {
+    "id": "start",
+    "label": "Driver starts collection",
+    "status": "In progress",
+    "push": "🚛 Collection has started in your area."
+  },
+  {
+    "id": "nearby",
+    "label": "Truck is nearby",
+    "status": "Truck nearby",
+    "push": "🚛 Your collection truck is nearby."
+  },
+  {
+    "id": "done",
+    "label": "Driver completes collection",
+    "status": "Collected",
+    "update": { "category": "Collection", "text": "Collection completed in your area." },
+    "push": "✓ Waste collection completed."
+  },
+  {
+    "id": "missed",
+    "label": "Collection missed",
+    "status": "Not collected",
+    "push": "Your scheduled collection was not completed."
+  },
+  {
+    "id": "kmc",
+    "label": "KMC publishes an update",
+    "update": { "category": "KMC", "text": "Kathmandu: use green bins for kitchen waste and blue bins for dry waste." },
+    "push": "New update from Kathmandu Metropolitan City."
+  },
+  {
+    "id": "report",
+    "label": "Ward moves my report forward",
+    "advanceReport": true
+  },
+  {
+    "id": "reset",
+    "label": "Reset today",
+    "reset": true
+  }
+]

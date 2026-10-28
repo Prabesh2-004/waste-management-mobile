@@ -1,0 +1,17 @@
+{
+  "languages": [
+    { "value": "en", "label": "English" },
+    { "value": "ne", "label": "नेपाली (Nepali, preview)" }
+  ],
+  "ne": {
+    "Home": "गृह",
+    "Collection": "सङ्कलन",
+    "Awareness": "जनचेतना",
+    "Updates": "सूचना",
+    "Identify": "पहिचान",
+    "Help": "सहायता",
+    "Today's collection": "आजको फोहोर सङ्कलन",
+    "Coming today": "आज आउँदैछ",
+    "Collected ✓": "सङ्कलन भयो ✓"
+  }
+}

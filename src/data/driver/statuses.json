@@ -1,0 +1,8 @@
+{
+  "Completed": { "icon": "✓", "tone": "green" },
+  "Partial": { "icon": "◐", "tone": "amber" },
+  "Unable to Complete": { "icon": "✕", "tone": "red" },
+  "In Progress": { "icon": "●", "tone": "blue" },
+  "Upcoming": { "icon": "○", "tone": "ink" },
+  "Delayed": { "icon": "⚠", "tone": "amber" }
+}

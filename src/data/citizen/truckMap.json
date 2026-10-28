@@ -1,0 +1,12 @@
+{
+  "width": 320,
+  "height": 180,
+  "path": [[30, 150], [80, 90], [130, 70], [200, 95], [250, 60], [295, 30]],
+  "home": { "x": 230, "y": 112, "label": "Your area" },
+  "destination": { "x": 295, "y": 30, "label": "Next stop: Thamel Rd", "labelX": 215, "labelY": 22 },
+  "defaultTruck": [110, 55],
+  "truckPositions": { "Truck nearby": [205, 92] },
+  "defaultEta": 15,
+  "etaByStatus": { "Truck nearby": 5 },
+  "trackingStatuses": ["Truck nearby", "In progress"]
+}

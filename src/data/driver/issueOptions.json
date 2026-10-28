@@ -1,0 +1,6 @@
+{
+  "Vehicle": ["Engine", "Tire", "Capacity / full", "Mechanical", "Other"],
+  "Collection": ["Collection point unavailable", "Waste not ready", "Collection delayed", "Waste mixed", "Other"],
+  "Route": ["Road blocked", "Traffic", "Route inaccessible", "Construction", "Other"],
+  "delayPattern": "delayed|blocked|inaccessible"
+}

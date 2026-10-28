@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Kathmandu Waste",
+    "slug": "kathmandu-waste",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Kathmandu Waste to access your photos to identify waste.",
+          "cameraPermission": "Allow Kathmandu Waste to use the camera to identify waste."
+        }
+      ],
+      "expo-status-bar"
+    ]
+  }
+}

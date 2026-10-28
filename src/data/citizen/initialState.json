@@ -1,0 +1,61 @@
+{
+  "user": {
+    "name": "Sita Shrestha",
+    "phone": "9841000000",
+    "email": "sita.shrestha@example.com",
+    "ward": 17
+  },
+  "dateLabel": "Monday, October 5",
+  "area": "Chhetrapati",
+  "city": "Kathmandu",
+  "wardCount": 32,
+  "defaultWard": 17,
+  "defaultStatus": "Scheduled",
+  "defaultTimeSlot": "08:00 – 09:00 AM",
+  "demoLogin": { "identifier": "9841000000", "password": "demo1234" },
+  "notifications": [
+    { "text": "⏰ Collection starts at 8:00 AM today.", "when": "7:30 AM" }
+  ],
+  "updates": [
+    { "category": "Schedule", "text": "Collection schedule updated for Ward 17.", "when": "Yesterday" },
+    { "category": "Campaign", "text": "New waste segregation campaign launched in Kathmandu.", "when": "Oct 3" }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "name": "Waste Segregation Awareness",
+      "date": "Saturday · 11:00 AM",
+      "location": "Ward 17 Community Hall",
+      "organizer": "Ward 17 office",
+      "description": "Learn how to separate kitchen waste, dry recyclables and hazardous items at home.",
+      "registered": false,
+      "done": false
+    },
+    {
+      "id": 2,
+      "name": "Composting at Home",
+      "date": "Oct 17 · 10:00 AM",
+      "location": "Chhetrapati Community Hall",
+      "organizer": "Ward 17 with KMC",
+      "description": "Make compost from kitchen scraps in a small bin.",
+      "registered": false,
+      "done": false
+    },
+    {
+      "id": 3,
+      "name": "Plastic-Free Market Drive",
+      "date": "Sep 21 · 2:00 PM",
+      "location": "Chhetrapati Market",
+      "organizer": "Ward 17 office",
+      "description": "Shopkeepers and shoppers swapped plastic bags for cloth bags. It cuts litter and blocked drains.",
+      "registered": false,
+      "done": true
+    }
+  ],
+  "reports": [
+    { "id": 1, "type": "Missed collection", "status": "In Progress", "date": "Today", "note": "Truck did not come yesterday." }
+  ],
+  "chat": [
+    { "bot": true, "text": "Namaste! Ask me anything about waste." }
+  ]
+}

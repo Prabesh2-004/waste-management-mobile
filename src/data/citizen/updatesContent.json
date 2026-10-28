@@ -1,0 +1,28 @@
+{
+  "milestones": [
+    "🏆 Ward {ward} completed 95% of scheduled collections this week.",
+    "🌱 12 awareness programs were conducted this month."
+  ],
+  "reminders": [
+    "Separate organic and inorganic waste before collection.",
+    "Keep waste ready before the scheduled time. Do not leave it on the roadside."
+  ],
+  "learn": [
+    {
+      "title": "Why separate waste?",
+      "body": "Kitchen waste turns into compost when kept apart. Dry plastic and paper can be recycled, which means less goes to the landfill."
+    },
+    {
+      "title": "What is organic waste?",
+      "body": "Food scraps, vegetable peels, leaves and flowers."
+    },
+    {
+      "title": "What is recyclable?",
+      "body": "Clean paper, cardboard, plastic bottles, glass and metal cans."
+    },
+    {
+      "title": "What should never be mixed?",
+      "body": "Batteries, electronics and medicines. Keep them out of the regular bin."
+    }
+  ]
+}

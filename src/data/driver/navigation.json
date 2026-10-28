@@ -1,0 +1,7 @@
+[
+  { "key": "home", "label": "Home" },
+  { "key": "collection", "label": "Collection" },
+  { "key": "route", "label": "Route" },
+  { "key": "awareness", "label": "Awareness" },
+  { "key": "reports", "label": "Reports" }
+]

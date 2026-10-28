@@ -1,0 +1,32 @@
+{
+  "name": "kathmandu-waste",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "citizen": "cross-env EXPO_PUBLIC_APP_ROLE=citizen expo start -c",
+    "driver": "cross-env EXPO_PUBLIC_APP_ROLE=driver expo start -c",
+    "citizen:web": "cross-env EXPO_PUBLIC_APP_ROLE=citizen expo start --web -c",
+    "driver:web": "cross-env EXPO_PUBLIC_APP_ROLE=driver expo start --web -c",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~57.0.17",
+    "expo": "~57.0.31",
+    "expo-image-picker": "~57.0.20",
+    "expo-status-bar": "~57.0.1",
+    "lucide-react-native": "^0.544.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-svg": "15.15.4",
+    "react-native-web": "^0.21.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "cross-env": "^7.0.3"
+  }
+}

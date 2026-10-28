@@ -1,0 +1,19 @@
+{
+  "types": [
+    "Waste not collected",
+    "Collection delayed",
+    "Truck did not arrive",
+    "Waste was mixed",
+    "Illegal dumping",
+    "Overflowing waste",
+    "Other"
+  ],
+  "defaultArea": "Chhetrapati",
+  "steps": ["Pending", "In Progress", "Resolved"],
+  "statusTones": {
+    "Pending": "amber",
+    "In Progress": "blue",
+    "Resolved": "green",
+    "Waiting to send": "amber"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Driver Waste Safety Training",
+    "date": "18 October",
+    "time": "11:00 AM",
+    "location": "Ward Office",
+    "organizer": "Ward 17 with KMC",
+    "description": "Safe lifting, glove use and handling sharp or hazardous waste.",
+    "registered": false
+  },
+  {
+    "id": 2,
+    "name": "Waste Segregation Awareness",
+    "date": "22 October",
+    "time": "2:00 PM",
+    "location": "Community Hall",
+    "organizer": "Ward 17",
+    "description": "How households separate organic and dry waste, and how drivers can help.",
+    "registered": false
+  }
+]

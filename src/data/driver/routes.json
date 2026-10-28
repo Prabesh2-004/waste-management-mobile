@@ -1,0 +1,38 @@
+[
+  {
+    "number": 1,
+    "time": "08:00",
+    "waste": "Organic",
+    "status": "Completed",
+    "weight": 1200,
+    "areasDone": 5,
+    "areas": ["Koteshwor", "Tinkune", "Gaushala", "Sinamangal", "Mahadevsthan"]
+  },
+  {
+    "number": 2,
+    "time": "10:00",
+    "waste": "Organic + Inorganic",
+    "status": "In Progress",
+    "weight": 0,
+    "areasDone": 3,
+    "areas": ["Shantinagar", "Baneshwor Chowk", "Mahadevsthan", "Buddhanagar", "Sinamangal"]
+  },
+  {
+    "number": 3,
+    "time": "12:00",
+    "waste": "Organic",
+    "status": "Upcoming",
+    "weight": 0,
+    "areasDone": 0,
+    "areas": ["Thapagaun", "Minbhawan", "Tinkune", "Koteshwor", "Jadibuti"]
+  },
+  {
+    "number": 4,
+    "time": "15:00",
+    "waste": "Inorganic / Recyclable",
+    "status": "Upcoming",
+    "weight": 0,
+    "areasDone": 0,
+    "areas": ["Gaushala", "Chabahil", "Gopikrishna", "Bhatbhateni", "Sinamangal"]
+  }
+]

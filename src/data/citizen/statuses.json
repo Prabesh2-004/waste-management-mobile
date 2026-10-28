@@ -1,0 +1,8 @@
+{
+  "Scheduled": { "label": "Coming today", "tone": "blue", "icon": "Clock" },
+  "Truck nearby": { "label": "Truck is nearby", "tone": "blue", "icon": "Truck" },
+  "In progress": { "label": "Collection in progress", "tone": "blue", "icon": "Truck" },
+  "Collected": { "label": "Collected ✓", "tone": "green", "icon": "Check" },
+  "Delayed": { "label": "Collection delayed", "tone": "amber", "icon": "TriangleAlert" },
+  "Not collected": { "label": "Not collected", "tone": "red", "icon": "X" }
+}

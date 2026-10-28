@@ -1,0 +1,8 @@
+[
+  { "key": "home", "label": "Home", "icon": "House" },
+  { "key": "collection", "label": "Collection", "icon": "Truck" },
+  { "key": "awareness", "label": "Awareness", "icon": "Megaphone" },
+  { "key": "updates", "label": "Updates", "icon": "Bell" },
+  { "key": "identify", "label": "Identify", "icon": "Camera" },
+  { "key": "help", "label": "Help", "icon": "MessageCircle" }
+]

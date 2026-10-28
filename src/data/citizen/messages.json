@@ -1,0 +1,22 @@
+{
+  "alertPattern": "🚛|⏰|⚠️|✓",
+  "delayAlert": "Collection delayed by 30 minutes.",
+  "timeChangedAlert": "Today's collection time has changed to 9:00 AM.",
+  "offlineSaved": "Saved on device. Will sync when connection is available.",
+  "reportSubmitted": "Report submitted ✓ Ward 17 and KMC can see it. Status: Pending.",
+  "refreshed": "Updated just now.",
+  "noOpenReport": "No open report to update.",
+  "reportInProgress": "Your report is now being reviewed.",
+  "reportResolved": "✓ Your report has been resolved.",
+  "registered": "Registered ✓ Ward 17 and KMC can see your registration.",
+  "registrationCancelled": "Registration cancelled.",
+  "cameraDenied": "Camera permission is needed to take a photo.",
+  "photoFailed": "Could not open the photo. Please try again.",
+  "resetPassword": "We sent a reset link to your phone or email.",
+  "replies": {
+    "delayed": "The truck was held up on its route. It is about 30 minutes late today. You will get an alert when it is close.",
+    "notDelayed": "No delay is reported for your area right now.",
+    "organic": "Organic waste is food scraps, vegetable peels, leaves and flowers.",
+    "unknown": "I am not sure. Try the Identify screen, or report a problem and your ward will help."
+  }
+}

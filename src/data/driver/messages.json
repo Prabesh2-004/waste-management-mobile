@@ -1,0 +1,13 @@
+{
+  "offlineSaved": "Saved on device. Will sync when connection is available.",
+  "enterPassword": "Please enter your password",
+  "enterName": "Please enter your name",
+  "wardChanged": "Ward 17 changed Route 3. Your Home shows the new time.",
+  "wardAlert": "Collection time changed to 9:30 AM (Route 3).",
+  "wardRouteNumber": 3,
+  "wardRouteTime": "09:30",
+  "allAreasDone": "All areas collected. End the collection to enter the weight.",
+  "registered": "✓ Registered. Ward 17 and KMC can see your participation.",
+  "reportSubmitted": "✓ Report submitted. Ward 17 received it and KMC can monitor it.",
+  "absenceSent": "✓ Absence note sent to Ward 17."
+}

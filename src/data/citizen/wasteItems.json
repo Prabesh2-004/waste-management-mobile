@@ -1,0 +1,72 @@
+[
+  {
+    "keywords": ["plastic bottle", "bottle", "pet"],
+    "name": "Plastic Bottle",
+    "category": "Recyclable",
+    "action": "Empty the bottle and place it with recyclable/inorganic waste according to your local collection system.",
+    "tone": "green"
+  },
+  {
+    "keywords": ["banana", "peel", "food", "vegetable", "fruit", "leftover", "organic"],
+    "name": "Banana Peel (Food Waste)",
+    "category": "Organic",
+    "action": "Place it with organic/biodegradable waste.",
+    "tone": "green"
+  },
+  {
+    "keywords": ["battery", "batteries"],
+    "name": "Battery",
+    "category": "Special / Hazardous",
+    "action": "Do not mix it with regular household waste. Use an appropriate collection point.",
+    "tone": "red"
+  },
+  {
+    "keywords": ["paper", "cardboard", "newspaper", "box"],
+    "name": "Paper / Cardboard",
+    "category": "Recyclable",
+    "action": "Keep it dry and flat, and put it with recyclable waste.",
+    "tone": "green"
+  },
+  {
+    "keywords": ["glass"],
+    "name": "Glass Bottle",
+    "category": "Recyclable",
+    "action": "Rinse it and keep it separate. Wrap broken glass in paper first.",
+    "tone": "green"
+  },
+  {
+    "keywords": ["phone", "charger", "electronic", "cable", "e-waste"],
+    "name": "Electronic Item",
+    "category": "Special / Hazardous",
+    "action": "Do not put it in the bin. Take it to an electronics collection point.",
+    "tone": "red"
+  },
+  {
+    "keywords": ["can", "metal", "tin"],
+    "name": "Metal Can",
+    "category": "Recyclable",
+    "action": "Rinse it and place it with recyclable waste.",
+    "tone": "green"
+  },
+  {
+    "keywords": ["clothes", "cloth", "shirt", "shoes"],
+    "name": "Old Clothes",
+    "category": "Reusable / Donation",
+    "action": "Consider donating or reusing before disposal.",
+    "tone": "blue"
+  },
+  {
+    "keywords": ["bag", "packaging", "wrapper", "plastic"],
+    "name": "Plastic Packaging",
+    "category": "Inorganic",
+    "action": "Keep it dry and put it with inorganic waste, not with wet food waste.",
+    "tone": "amber"
+  },
+  {
+    "keywords": ["medicine", "tablet", "syrup"],
+    "name": "Medicine",
+    "category": "Special / Hazardous",
+    "action": "Do not throw it in regular waste. Return it to a pharmacy.",
+    "tone": "red"
+  }
+]
